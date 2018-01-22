@@ -1,4 +1,5 @@
 %  Continuous optimization through a time dependent vector field 
+%  Copyright (c) 2012, MathWorks, Inc. 
 %% Initialize Parameters
 
 clear; clc; clf;
